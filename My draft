@@ -1,0 +1,45 @@
+IMRaD format
+Reference list format/citation
+https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html
+Suggested POV: Smart city methodology tracking and reduction of greenhouse gas emissions.
+ -> Sensors + Big Data + AI
+Rather than going through 5. “Opportunities for Minimizing and Mitigating the Carbon Footprint in the Sustainable Smart City with Stakeholders” separately integrate it to each major topic: energy/waste – residential/commercial sector efficiency – mobility and freight
+Introduction = The legal and technical necessity for reduction of carbon footprint
+
+Mobility and freight: 
+Utilization of AI orchestration enhanced control systems for industrial machinery and material flow architecture, improved material transportation ecosystems (supplier/vendor/consumer company – localization techniques, up-to-date gnns positioning, communication system localization with antennas (perhaps printed electronics?), material of the transporting packaging?, distance travelled/travelling method used also is the fuel low emission variant?)
+Legal considerations? 
+Greenhouse gas neutrality of the energy sector in Vaasa: (Concrete statistics needed for)
+
+Tracking the ghg emissions of cities. Smart city sensor network required on everything relevant. (Industry decarbonisation, agriculture and food systems, circular economy, finance and investment, nature-based solutions, supporting energy communities, built environment, mobility). Energy management with machine learning. Sensor network architecture with energy harvesting.
+
+The global push towards smart city infrastructure with particular focus on system efficiency encompasses all the relevant areas around greenhouse gas emissions. By enhancing the processing methods of the private sector alongside modifying the behaviour of the public sector with efficiency modifying smart systems we’re able to achieve decreased greenhouse gas emission rates through the natural evolution of intelligent ecosystems. These systems require substantial investments into big data warehousing, data processing and sensor network solutions, which will initially create a net increase in emission rates. However there are new underutilized technologies which may decrease the effects of this transition. One of them is energy harvesting in tandem with sensors (Passive, Exteroceptive, Proprioceptive). The primary emission concern of sensor networks after the manufacturing process is the energy supply aspect of the network. If the required energy can be supplied through direct or tertiary source harvesting, the burden through emissions could be substantially decreased within this domain. Additionally the incredible amounts of heat that the big data warehouses produce could be harvested to a larger extent, which in turn would also create more energy efficient systems. 
+https://www.sciencedirect.com/science/article/pii/S1364032123006342
+Furthermore the publication in the international journal of information management published an article that dealt with the topic of orchestrating energy efficient systems within smart cities through the utilization of machine learning algorithms. The requirement for adopting such a system is a method which holds nonlinear adaptability and time-series data utilization capacity. Especially important with the push for EV and their necessary charging stations. Path optimization for the public transportation sector for minimizes energy consumption with tandem navigation for each vehicle node.
+Legal considerations?
+
+
+Why the focus on energy? 
+ 
+Electricity & heat sector accounted for 30.4% of the greenhouse gas emissions of the entire world and is by far the largest problem to tackle in this transformational time with investments into smart city ecosystems and artificial intelligence, both of which require substantial energy consumption and initial emission investments in the creation of the required infrastructure. Why shouldn’t we simply invest all our time and effort then towards the creation of traditional renewable systems? The simple answer is that the inefficiencies within the existing and future energy architecture will cause a substantial increase in emissions not only in their production, but there will be additional emission costs to upgrading these systems later down the line compared to redesigning these architectural paradigms and creating sustainable and autonomous energy systems in the present.
+Vaasa is in the process of creating new IoT platforms in cooperation with Wapice in order to reduce greenhouse gas emissions and make more streamlined and efficient transportation systems. Utilization of data akin to the previously mentioned study regarding ML?
+https://www.vaasa.fi/en/news/intelligent-vaasa-iot-platform-reduces-carbon-footprint-streamlines-travelling-and-saves-costs/
+Waste management of Vaasa – According to these sources the local cyclical economy has decreased the leftover waste to minimal quantity.
+https://www.sciencedirect.com/science/article/pii/S0956053X22000277?via%3Dihub
+https://www.uwasa.fi/sites/default/files/2022-06/Pekka-Peura-1.pdf
+
+Reference list
+Gaur, A., McClean, S., Parr, G., & Scotney, B. (2015). Smart City Architecture and its Applications Based on IoT. Procedia Computer Science, 52(1), 1089-1093. https://www.sciencedirect.com/science/article/pii/S1877050915009229
+Gracias, J.S., Buchanan, R., Parnell, G.S., Pohl, E.A., & Specking, E. (2023). Smart  Cities—A Structured Literature Review. Smart Cities, 6(4), 1734-1735. https://doi.org/10.3390/smartcities6040080
+Zekić-Sušac, M., Has, A., & Mitrović, S. (2021). Machine learning based system for managing energy efficiency of public sector as an approach towards smart cities. International Journal of Information Management, 58(1), 10. https://www.sciencedirect.com/science/article/pii/S0268401219302968
+Intelligent Vaasa: IoT platform reduces carbon footprint, streamlines travelling and saves costs
+https://www.vaasa.fi/en/news/intelligent-vaasa-iot-platform-reduces-carbon-footprint-streamlines-travelling-and-saves-costs/
+Waste heat recoveries in data centers: A review
+https://www.sciencedirect.com/science/article/pii/S1364032123006342
+Waste management and transition to a circular economy
+https://www.uwasa.fi/sites/default/files/2022-06/Pekka-Peura-1.pdf
+From garbage to product and service systems: A longitudinal Finnish case study of waste management evolution
+https://www.sciencedirect.com/science/article/pii/S0956053X22000277?via%3Dihub
+
+European Green Capital/Leaf Award
+https://circabc.europa.eu/ui/group/c6e126de-5b8c-4cd7-8d36-a1978a2a63de/library/10ab86b6-e1b8-4d49-bd99-3546ea340721/details
